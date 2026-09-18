@@ -9,7 +9,7 @@ The project is made to be simple to use, easy to customize and expandable over t
 ---
 
 ## ✨ Features
-
+```text
 ╔═(1) Larp Ddos Attack - Python                                
 ║                                                              
 ╠══(2) BasedF Tool - Buildware Crack Free                     
@@ -55,7 +55,7 @@ The project is made to be simple to use, easy to customize and expandable over t
  ╚╦══════(00) Exit Tool     (100) Next Page
   ║
   ╚═════>
-
+```
 
 ### 🖥️ Main Menu
 
